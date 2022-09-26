@@ -1,6 +1,12 @@
 Arquivo feito completamente em python, para usalo, necesario fazer instalação.
 
 
+1º Baixe o python na microsft store
+2º Execulte depois o arquivo chamado "execulte!!!"
+3º Execulte o main.py
+
+
+
 Microsoft Store:
 https://www.microsoft.com/store/productId/9P7QFQMJRFP7
 ======================================================
