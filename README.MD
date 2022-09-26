@@ -17,9 +17,5 @@ Link para o download do python no site:
 https://www.python.org/downloads/
 ======================================================
 
-Para o uso do codigo de uma forma mais bem feita e intuitiva, usei uma biblioteca de colorir texo.
-    Para instalação da biblioteca de color, usar:
-    >pip install colorama<
-
 by: amdreツ
 instagram: https://instagram.com/amdre.py
